@@ -1,0 +1,18 @@
+18:33:44.962 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Chrome driver is initialize successfully.
+18:33:46.583 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Web screen is maximized successfully.
+18:34:29.133 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Chrome driver is initialize successfully.
+18:34:31.214 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Web screen is maximized successfully.
+18:35:28.013 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Chrome driver is initialize successfully.
+18:35:31.374 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Web screen is maximized successfully.
+18:39:57.080 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Chrome driver is initialize successfully.
+18:39:59.216 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Web screen is maximized successfully.
+18:41:29.662 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Chrome driver is initialize successfully.
+18:41:31.720 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Web screen is maximized successfully.
+18:47:04.621 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Chrome driver is initialize successfully.
+18:47:06.852 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Web screen is maximized successfully.
+18:47:11.033 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Clicked on Log-in button successfully..!!
+18:47:11.101 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Page title is verified successfully..!
+18:47:11.210 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Username entered successfully..!
+18:47:11.326 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Password entered successfully..!
+18:47:12.571 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Clicked on Log-in button successfully..!!
+18:47:12.913 [main] INFO  com.spearline.webAppFunctions.webAppFunctions - Validation message is verified successfully.!!
